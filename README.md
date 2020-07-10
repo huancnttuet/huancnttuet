@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**huancnttuet/huancnttuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF demo](https://gph.is/2xANSye)
 
 Here are some ideas to get you started:
 
