@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GIF demo](https://media.giphy.com/media/38bFvh7mpryOA/giphy.gif)
+![GIF demo](source.gif)
 
 Here are some ideas to get you started:
 
