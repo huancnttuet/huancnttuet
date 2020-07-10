@@ -2,6 +2,7 @@
 
 ![GIF demo](source.gif)
 
+![GIF demo](https://github.com/huancnttuet/huancnttuet/blob/master/source.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
