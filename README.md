@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mok 👋
 
 ![GIF demo](https://github.com/huancnttuet/huancnttuet/blob/master/source.gif)
 
