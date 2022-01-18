@@ -1,4 +1,4 @@
-### Hi, I'm Mok 👋
+### Hi, I'm Mokie' 👋
 
 ![GIF demo](https://github.com/huancnttuet/huancnttuet/blob/master/one_champ_Viktor.gif)
 
@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I am a lover without a lover for a quater of a century
 
 
-[![huancnttuet's GitHub stats](https://github-readme-stats.vercel.app/api?username=huancnttuet&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![huancnttuet's GitHub stats](https://github-readme-stats.vercel.app/api?username=huancnttuet&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huancnttuet&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huancnttuet&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
